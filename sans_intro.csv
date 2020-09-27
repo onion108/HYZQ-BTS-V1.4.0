@@ -20,7 +20,8 @@
 0,Sound,Ding,,,,,,,
 0.4,Sound,GasterBlaster,1.4,,,,,,
 0.4,SineBones,20,-24,360,25,,,,
-1.1,SansAnimation,,,,,,,,
+1.1,HeartMode,4,,,,,,,
+0,SansAnimation,,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
@@ -36,5 +37,11 @@
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,Default,,,,,,,
+0,HeartMode,5,,,,,,,
+0.1,BoneBulletH,0,100,3,0,,,,
+0.1,BoneBulletV,1,100,3,0,,,,
+0.01,BoneBulletH,2,270,3,0,,,,
+0.1,BoneBulletH,0,290,3,0,,,,
+0.1,BoneBulletH,0,300,3,0,,,,
 0,SansText,here we go.,,,,,,,
 0,EndAttack,,,,,,,,
